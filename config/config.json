@@ -1,0 +1,7 @@
+{
+    "username": "root",
+    "password": null,
+    "database": "Test_Seq7",
+    "host": "localhost",
+    "dialect": "mysql"
+}
